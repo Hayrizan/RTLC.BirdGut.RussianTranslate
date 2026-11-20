@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.tmp
+scratch/
+
+__pycache__/
+*.pyc
+/assets/rtlc.bundle
+/*.zip
